@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b3a4e5e7926170c0ecad9105927d98ec",
+    "revision": "02fb6f972c3e9da088b1266e8cd73dc2",
     "url": "/emotivideo/index.html"
   },
   {
-    "revision": "4940cfce171730e59dc0",
+    "revision": "98ac724ed616a3d0c681",
     "url": "/emotivideo/static/css/main.5f361e03.chunk.css"
   },
   {
-    "revision": "0582267613db1c173e12",
-    "url": "/emotivideo/static/js/2.01880b4f.chunk.js"
+    "revision": "a76a110fb17503c1e06b",
+    "url": "/emotivideo/static/js/2.6a142a23.chunk.js"
   },
   {
     "revision": "c79a5395694a47e32f6e2f32e8a9dcf5",
-    "url": "/emotivideo/static/js/2.01880b4f.chunk.js.LICENSE.txt"
+    "url": "/emotivideo/static/js/2.6a142a23.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4940cfce171730e59dc0",
-    "url": "/emotivideo/static/js/main.d4e6edd4.chunk.js"
+    "revision": "98ac724ed616a3d0c681",
+    "url": "/emotivideo/static/js/main.3ab751a4.chunk.js"
   },
   {
     "revision": "7e7fc8b6670c65ffd654",
