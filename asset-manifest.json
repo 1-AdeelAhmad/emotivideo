@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/emotivideo/static/css/main.5f361e03.chunk.css",
-    "main.js": "/emotivideo/static/js/main.3f256018.chunk.js",
-    "main.js.map": "/emotivideo/static/js/main.3f256018.chunk.js.map",
+    "main.js": "/emotivideo/static/js/main.d4e6edd4.chunk.js",
+    "main.js.map": "/emotivideo/static/js/main.d4e6edd4.chunk.js.map",
     "runtime-main.js": "/emotivideo/static/js/runtime-main.fe0caa90.js",
     "runtime-main.js.map": "/emotivideo/static/js/runtime-main.fe0caa90.js.map",
     "static/js/2.01880b4f.chunk.js": "/emotivideo/static/js/2.01880b4f.chunk.js",
     "static/js/2.01880b4f.chunk.js.map": "/emotivideo/static/js/2.01880b4f.chunk.js.map",
     "index.html": "/emotivideo/index.html",
-    "precache-manifest.89b544d616c2b639474a7afc80e53072.js": "/emotivideo/precache-manifest.89b544d616c2b639474a7afc80e53072.js",
+    "precache-manifest.587c944acd6a2d389e599f68e8de0432.js": "/emotivideo/precache-manifest.587c944acd6a2d389e599f68e8de0432.js",
     "service-worker.js": "/emotivideo/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/emotivideo/static/css/main.5f361e03.chunk.css.map",
     "static/js/2.01880b4f.chunk.js.LICENSE.txt": "/emotivideo/static/js/2.01880b4f.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.fe0caa90.js",
     "static/js/2.01880b4f.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.3f256018.chunk.js"
+    "static/js/main.d4e6edd4.chunk.js"
   ]
 }
