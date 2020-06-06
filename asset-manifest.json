@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/emotivideo/static/css/main.5f361e03.chunk.css",
+    "main.js": "/emotivideo/static/js/main.714587e4.chunk.js",
+    "main.js.map": "/emotivideo/static/js/main.714587e4.chunk.js.map",
+    "runtime-main.js": "/emotivideo/static/js/runtime-main.fe0caa90.js",
+    "runtime-main.js.map": "/emotivideo/static/js/runtime-main.fe0caa90.js.map",
+    "static/js/2.41fa1a21.chunk.js": "/emotivideo/static/js/2.41fa1a21.chunk.js",
+    "static/js/2.41fa1a21.chunk.js.map": "/emotivideo/static/js/2.41fa1a21.chunk.js.map",
+    "index.html": "/emotivideo/index.html",
+    "precache-manifest.7f1d720068acd349486983be0c7d8007.js": "/emotivideo/precache-manifest.7f1d720068acd349486983be0c7d8007.js",
+    "service-worker.js": "/emotivideo/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/emotivideo/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.41fa1a21.chunk.js.LICENSE.txt": "/emotivideo/static/js/2.41fa1a21.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fe0caa90.js",
+    "static/js/2.41fa1a21.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.714587e4.chunk.js"
+  ]
+}
