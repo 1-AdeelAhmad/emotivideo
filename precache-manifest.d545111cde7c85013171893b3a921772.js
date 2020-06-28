@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "02fb6f972c3e9da088b1266e8cd73dc2",
+    "revision": "d018aa7f2695550751b76e4e4c2dc2d8",
     "url": "/emotivideo/index.html"
   },
   {
-    "revision": "98ac724ed616a3d0c681",
+    "revision": "39d39e1ff0ae68a71d7b",
     "url": "/emotivideo/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/emotivideo/static/js/2.6a142a23.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "98ac724ed616a3d0c681",
-    "url": "/emotivideo/static/js/main.3ab751a4.chunk.js"
+    "revision": "39d39e1ff0ae68a71d7b",
+    "url": "/emotivideo/static/js/main.a2b0174e.chunk.js"
   },
   {
     "revision": "7e7fc8b6670c65ffd654",
